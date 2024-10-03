@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,smahdi,Mahdi,Salsabila
 employee,amerkelz,Merkelz,Amy
